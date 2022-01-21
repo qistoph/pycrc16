@@ -76,7 +76,7 @@ Other projects
 There are a number of projects and libraries for CRC calculation.
 See for example:
 
-* binascii.crc32 in the standart Python library
+* binascii.crc32 in the standard Python library
 
 * pycrc (http://www.tty1.net/pycrc)
 
